@@ -46,7 +46,10 @@ markdown_extensions:
 
 nav:
   - Base: index.md
+  - Docker:
+      - Setup: docker/setup.md
+  - PostgreSQL:
+      - Setup: postgresql/setup.md
   - Python:
       - Setup: python/setup.md
       - Tools: python/base-tools.md
-  - Docker: docker/index.md
