@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://kb.kozlek.net/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.kozlek.net/docker/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.kozlek.net/docker/setup/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.kozlek.net/postgresql/setup/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.kozlek.net/python/base-tools/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kb.kozlek.net/python/setup/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
