@@ -20,5 +20,5 @@
 
     ```sh
     sudo apt-get update
-    sudo apt-get install -y postgresql-15
+    sudo apt-get install -y postgresql-16
     ```
